@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "173113914821",
+    "project_id": "pushnotification-163416"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173113914821:android:1faf0bbbd8a61c0b",
+        "android_client_info": {
+          "package_name": "com.example.vartikasharma.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8c5ApEy_38j67rYSYZv3U9zwvtqvd-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
